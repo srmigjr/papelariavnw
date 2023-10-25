@@ -47,3 +47,8 @@ cursor: pointer;
 button:hover{
     background-color: greenyellow;
 }
+footer{
+    background-color: beige;
+    height: 100px;
+    text-align: center;
+}
